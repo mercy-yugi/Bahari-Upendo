@@ -325,3 +325,16 @@ input[type=text], select {
     margin-top: 80px;
     
 }
+.moja{
+    width: 800px;
+    height: 200px;
+    margin-left: 170px;
+    margin-top: 50px; background-color: rgb(210, 196, 221);
+    text-align: center;
+    padding-top: 40px;
+}
+h2{
+    font-size: 30px;
+    color: #ce46b0;
+    
+}
